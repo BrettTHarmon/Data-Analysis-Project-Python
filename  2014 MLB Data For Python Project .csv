@@ -1,0 +1,47 @@
+Rank,TEAM,Earned Run Averages(ERA'S),Earned Runs(ER),Strikeouts Per Team(SO),Opponents' Batting Average(BAA)
+1,San Diego,2.89,150,456,0.225
+2,Seattle,2.93,156,464,0.228
+3,Oakland,2.97,162,426,0.219
+4,San Francisco,3,159,388,0.211
+5,Washington,3.01,167,453,0.233
+6,Miami,3.15,170,492,0.239
+7,Kansas City,3.18,169,441,0.24
+8,Baltimore,3.19,174,428,0.232
+9,Cleveland,3.25,179,499,0.239
+10,Tampa Bay,3.28,179,527,0.216
+11,Pittsburgh,3.38,182,426,0.252
+12,Atlanta,3.39,182,465,0.239
+13,Boston,3.45,189,455,0.251
+14,Philadelphia,3.46,191,501,0.226
+15,St. Louis,3.47,184,429,0.236
+16,Milwaukee,3.48,188,457,0.251
+17,LA Dodgers,3.5,192,491,0.232
+18,NY Mets,3.51,192,464,0.254
+19,LA Angels,3.68,209,491,0.236
+20,Chicago Cubs,3.7,202,486,0.232
+21,Cincinnati,3.72,196,473,0.23
+22,Texas,3.77,191,394,0.249
+23,NY Yankees,3.9,210,538,0.236
+24,Minnesota,4,206,341,0.267
+25,Toronto,4.03,211,411,0.243
+26,Arizona,4.13,217,484,0.26
+27,Detroit,4.26,228,424,0.264
+28,Chicago Sox,4.55,237,373,0.267
+29,Houston,4.55,236,418,0.257
+30,Colorado,4.96,253,396,0.272
+,,,,,
+Glossary: ,,,,,
+GP: Games Played,,,,,
+W: Wins,,,,,
+L: Losses,,,,,
+ERA: Earned Run Average,,,,,
+Sv: Saves,,,,,
+CG: Complete Games,,,,,
+SHO: Shutouts,,,,,
+IP: Innings Pitched,,,,,
+QS: Quality Starts,,,,,
+ER: Earned Runs,,,,,
+R: Runs,,,,,
+BB: Walks,,,,,
+SO: Strikeouts,,,,,
+BAA: Opponents Batting Average,,,,,
